@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactWirhBootstrap/static/css/main.e6c13ad2.css",
+    "main.js": "/reactWirhBootstrap/static/js/main.059e137a.js",
+    "static/js/787.241534ed.chunk.js": "/reactWirhBootstrap/static/js/787.241534ed.chunk.js",
+    "index.html": "/reactWirhBootstrap/index.html",
+    "main.e6c13ad2.css.map": "/reactWirhBootstrap/static/css/main.e6c13ad2.css.map",
+    "main.059e137a.js.map": "/reactWirhBootstrap/static/js/main.059e137a.js.map",
+    "787.241534ed.chunk.js.map": "/reactWirhBootstrap/static/js/787.241534ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.059e137a.js"
+  ]
+}
